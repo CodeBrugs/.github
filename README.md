@@ -1,4 +1,4 @@
-# Contribución a Proyectos en CódigoBrugs
+# Guía de Contribución a Proyectos en CódigoBrugs
 
 ¡Bienvenido a la guía de contribución para proyectos en la organización CódigoBrugs en GitHub!
 
@@ -6,7 +6,7 @@
 
 ### 1. Encuentra un Proyecto Interesante
 
-Explora los proyectos disponibles en nuestra organización y encuentra uno que te resulte interesante. Algunos de nuestros proyectos destacados incluyen:
+Explora los proyectos disponibles en nuestra organización y encuentra uno que te resulte interesante. Algunos de nuestros destacados incluyen:
 
 - [Proyecto-Awesome](https://github.com/CodigoBrugs/Proyecto-Awesome)
 - [InnovadorApp](https://github.com/CodigoBrugs/InnovadorApp)
@@ -53,5 +53,3 @@ Asegúrate de seguir nuestro Código de Conducta al contribuir a los proyectos e
 
 ¿Necesitas Ayuda?
 Si tienes preguntas o encuentras problemas, no dudes en abrir un issue en el repositorio correspondiente.
-
-¡Gracias por contribuir a los proyectos de CódigoBrugs!
