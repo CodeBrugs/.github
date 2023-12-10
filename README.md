@@ -1,55 +1,52 @@
-# Guía de Contribución a Proyectos en CódigoBrugs
 
-¡Bienvenido a la guía de contribución para proyectos en la organización CódigoBrugs en GitHub!
+# Organización CódigoBrugs
 
-## ¿Cómo Contribuir?
+¡Bienvenido a la organización CódigoBrugs en GitHub!
 
-### 1. Encuentra un Proyecto Interesante
+## Sobre Nosotros
 
-Explora los proyectos disponibles en nuestra organización y encuentra uno que te resulte interesante. Algunos de nuestros destacados incluyen:
+CódigoBrugs es una comunidad vibrante y diversa comprometida con el desarrollo de software, la innovación y la colaboración. Nuestro objetivo es crear un espacio inclusivo donde los desarrolladores puedan aprender, compartir conocimientos y contribuir a proyectos emocionantes.
 
-- [Proyecto-Awesome](https://github.com/CodigoBrugs/Proyecto-Awesome)
-- [InnovadorApp](https://github.com/CodigoBrugs/InnovadorApp)
-- [DatosSeguros](https://github.com/CodigoBrugs/DatosSeguros)
+## Nuestra Misión
 
-### 2. Fork del Repositorio
+Fomentamos la pasión por la tecnología y la programación, promoviendo un entorno de aprendizaje continuo y apoyando iniciativas que impulsen la innovación en el mundo del software.
 
-Haz un fork del repositorio del proyecto que seleccionaste a tu propia cuenta de GitHub.
+## Proyectos Destacados
 
-### 3. Clona el Repositorio
+### [Proyecto-Awesome](https://github.com/CodigoBrugs/Proyecto-Awesome)
 
-Clona el repositorio a tu máquina local utilizando el siguiente comando:
+Proyecto-Awesome es una plataforma que reúne las herramientas, recursos y tecnologías más interesantes del mundo del desarrollo de software. Únete a nosotros para explorar y contribuir a esta creciente colección de recursos útiles.
 
-```bash
-git clone https://github.com/TU_USUARIO/nombre-del-proyecto.git
-4. Crea una Rama
-Crea una nueva rama para trabajar en tus cambios:
+### [InnovadorApp](https://github.com/CodigoBrugs/InnovadorApp)
 
-bash
-Copy code
-git checkout -b nombre-de-tu-rama
-5. Realiza tus Cambios
-Realiza las modificaciones o mejoras deseadas en el código.
+InnovadorApp es una aplicación innovadora diseñada para abordar desafíos específicos en [industria o campo de aplicación]. Si te apasiona la creación de soluciones impactantes, este proyecto es perfecto para ti.
 
-6. Realiza Commit y Push
-Haz commit de tus cambios y súbelos a tu repositorio en GitHub:
+### [DatosSeguros](https://github.com/CodigoBrugs/DatosSeguros)
 
-bash
-Copy code
-git add .
-git commit -m "Descripción de tus cambios"
-git push origin nombre-de-tu-rama
-7. Crea una Solicitud de Extracción (Pull Request)
-Abre una solicitud de extracción desde tu repositorio a la rama principal del proyecto original.
+DatosSeguros se centra en garantizar la seguridad y privacidad de los datos en aplicaciones y sistemas. Únete a nosotros para trabajar en soluciones que protejan la información sensible y promuevan prácticas seguras.
 
-8. Participa en la Revisión
-Participa en la revisión de código y realiza ajustes según las sugerencias de los colaboradores.
+## Cómo Contribuir
 
-9. ¡Colaboración Exitosa!
-Una vez que tu solicitud de extracción sea aceptada, ¡has contribuido con éxito al proyecto!
+Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Guía de Contribución](./.github/CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
 
-Código de Conducta
-Asegúrate de seguir nuestro Código de Conducta al contribuir a los proyectos en nuestra organización.
+## Eventos y Meetups
 
-¿Necesitas Ayuda?
-Si tienes preguntas o encuentras problemas, no dudes en abrir un issue en el repositorio correspondiente.
+Mantente actualizado sobre nuestros eventos, charlas y meetups. Únete a la conversación y conoce a otros miembros de la comunidad. ¡Esperamos conocerte pronto!
+
+## Código de Conducta
+
+Por favor, revisa nuestro [Código de Conducta](./.github/CODE_OF_CONDUCT.md) antes de participar en cualquier proyecto. Queremos que todos los participantes se sientan seguros y respetados.
+
+## Contacto
+
+¿Tienes preguntas, sugerencias o simplemente quieres charlar? No dudes en [abrir un issue](https://github.com/CodigoBrugs/perfil/issues) en este repositorio. ¡Estamos aquí para ayudar!
+
+## Redes Sociales
+
+Síguenos en nuestras redes sociales para estar al tanto de las últimas noticias, actualizaciones y eventos:
+
+- [Twitter](https://twitter.com/CodigoBrugs)
+- [LinkedIn](https://www.linkedin.com/company/codigobrugs)
+- [Instagram](https://www.instagram.com/codigobrugs/)
+
+¡Gracias por ser parte de la comunidad CódigoBrugs!
