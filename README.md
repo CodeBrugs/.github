@@ -27,7 +27,7 @@ DatosSeguros se centra en garantizar la seguridad y privacidad de los datos en a
 
 ## Cómo Contribuir
 
-Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Guía de Contribución](.github/CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
+Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Guía de Contribución](CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
 
 ## Eventos y Meetups
 
@@ -35,7 +35,7 @@ Mantente actualizado sobre nuestros eventos, charlas y meetups. Únete a la conv
 
 ## Código de Conducta
 
-Por favor, revisa nuestro [Código de Conducta](./.github/CODE_OF_CONDUCT.md) antes de participar en cualquier proyecto. Queremos que todos los participantes se sientan seguros y respetados.
+Por favor, revisa nuestro [Código de Conducta](CODE_OF_CONDUCT.md) antes de participar en cualquier proyecto. Queremos que todos los participantes se sientan seguros y respetados.
 
 ## Contacto
 
