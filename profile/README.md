@@ -12,21 +12,21 @@ Fomentamos la pasión por la tecnología y la programación, promoviendo un ento
 
 ## Proyectos Destacados
 
-### [Proyecto-Awesome](https://github.com/CodigoBrugs/Proyecto-Awesome)
+### [Proyecto-Awesome](https://github.com/CodeBrugs/Proyecto-Awesome)
 
 Proyecto-Awesome es una plataforma que reúne las herramientas, recursos y tecnologías más interesantes del mundo del desarrollo de software. Únete a nosotros para explorar y contribuir a esta creciente colección de recursos útiles.
 
-### [InnovadorApp](https://github.com/CodigoBrugs/InnovadorApp)
+### [InnovadorApp](https://github.com/CodeBrugs/InnovadorApp)
 
 InnovadorApp es una aplicación innovadora diseñada para abordar desafíos específicos en [industria o campo de aplicación]. Si te apasiona la creación de soluciones impactantes, este proyecto es perfecto para ti.
 
-### [DatosSeguros](https://github.com/CodigoBrugs/DatosSeguros)
+### [DatosSeguros](https://github.com/CodeBrugs/DatosSeguros)
 
 DatosSeguros se centra en garantizar la seguridad y privacidad de los datos en aplicaciones y sistemas. Únete a nosotros para trabajar en soluciones que protejan la información sensible y promuevan prácticas seguras.
 
 ## Cómo Contribuir
 
-Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Guía de Contribución](./.github/CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
+Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Guía de Contribución](CodeBrugs/.github/CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
 
 ## Eventos y Meetups
 
@@ -34,7 +34,7 @@ Mantente actualizado sobre nuestros eventos, charlas y meetups. Únete a la conv
 
 ## Código de Conducta
 
-Por favor, revisa nuestro [Código de Conducta](./.github/CODE_OF_CONDUCT.md) antes de participar en cualquier proyecto. Queremos que todos los participantes se sientan seguros y respetados.
+Por favor, revisa nuestro [Código de Conducta](CodeBrugs/.github/CODE_OF_CONDUCT.md) antes de participar en cualquier proyecto. Queremos que todos los participantes se sientan seguros y respetados.
 
 ## Contacto
 
