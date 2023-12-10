@@ -27,7 +27,7 @@ DatosSeguros se centra en garantizar la seguridad y privacidad de los datos en a
 
 ## Cómo Contribuir
 
-Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Guía de Contribución](CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
+Te invitamos a unirte a la comunidad CódigoBrugs y contribuir a nuestros proyectos. Consulta nuestra [Contribución](CONTRIBUTING.md) para obtener información detallada sobre cómo empezar y las pautas para contribuir.
 
 ## Eventos y Meetups
 
