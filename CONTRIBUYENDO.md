@@ -1,4 +1,4 @@
-# Contribuyendo a Proyectos en CódigoBrugs
+# Contribuyendo a Proyectos en CódeBrugs
 
 ¡Gracias por tu interés en contribuir a los proyectos de CódigoBrugs! Tu participación es crucial para el éxito y el crecimiento de nuestra comunidad. Antes de comenzar, por favor, toma un momento para revisar esta guía de contribución.
 
@@ -6,7 +6,7 @@
 
 ### 1. Selección de un Proyecto
 
-Visita nuestro repositorio principal [CódigoBrugs](https://github.com/CodigoBrugs) para explorar la lista de proyectos disponibles. Elige un proyecto que te interese y revisa su documentación para obtener más detalles sobre cómo puedes contribuir.
+Visita nuestro repositorio principal [CódeBrugs](https://github.com/CodeBrugs) para explorar la lista de proyectos disponibles. Elige un proyecto que te interese y revisa su documentación para obtener más detalles sobre cómo puedes contribuir.
 
 ### 2. Fork del Repositorio
 
