@@ -13,15 +13,15 @@ Fomentamos la pasión por la tecnología y la programación, promoviendo un ento
 
 ## Proyectos Destacados
 
-### [Proyecto-Awesome](https://github.com/CodigoBrugs/Proyecto-Awesome)
+### [Proyecto-Awesome](https://github.com/CodeBrugs/Proyecto-Awesome)
 
 Proyecto-Awesome es una plataforma que reúne las herramientas, recursos y tecnologías más interesantes del mundo del desarrollo de software. Únete a nosotros para explorar y contribuir a esta creciente colección de recursos útiles.
 
-### [InnovadorApp](https://github.com/CodigoBrugs/InnovadorApp)
+### [InnovadorApp](https://github.com/CodeBrugs/InnovadorApp)
 
 InnovadorApp es una aplicación innovadora diseñada para abordar desafíos específicos en [industria o campo de aplicación]. Si te apasiona la creación de soluciones impactantes, este proyecto es perfecto para ti.
 
-### [DatosSeguros](https://github.com/CodigoBrugs/DatosSeguros)
+### [DatosSeguros](https://github.com/CodeBrugs/DatosSeguros)
 
 DatosSeguros se centra en garantizar la seguridad y privacidad de los datos en aplicaciones y sistemas. Únete a nosotros para trabajar en soluciones que protejan la información sensible y promuevan prácticas seguras.
 
@@ -45,8 +45,8 @@ Por favor, revisa nuestro [Código de Conducta](CODE_OF_CONDUCT.md) antes de par
 
 Síguenos en nuestras redes sociales para estar al tanto de las últimas noticias, actualizaciones y eventos:
 
-- [Twitter](https://twitter.com/CodigoBrugs)
-- [LinkedIn](https://www.linkedin.com/company/codigobrugs)
-- [Instagram](https://www.instagram.com/codigobrugs/)
+- [Twitter](CodeBrugs)
+- [LinkedIn](codebrugs)
+- [Instagram](codebrugs)
 
 ¡Gracias por ser parte de la comunidad CódigoBrugs!
