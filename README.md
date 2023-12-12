@@ -1,5 +1,5 @@
 
-# Organización CódigoBrugs
+# CódigoBrugs
 
 ¡Bienvenido a la organización CódigoBrugs en GitHub!
 
