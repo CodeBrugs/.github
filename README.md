@@ -1,6 +1,6 @@
 # CódigoBrugs
 
-¡Bienvenido a la organización CódigoBrugs en GitHub!
+¡Bienvenido a la organización CódigoBrugs!
 
 ## Sobre Nosotros
 
