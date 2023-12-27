@@ -1,0 +1,144 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+pipenv/
+*.venv/
+# To store all dependencies including flake8 and black
+.env/
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Editor
+*.swp
+*~
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Package distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+lost+found/
+
+# Python SCons
+.sconsign.dblite
+sconsign.dblite
+
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Docker
+.docker/
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.log
+*.tmp
+*.tmp.*
+log.txt
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+.pnp.js.map
+.pnp.settings.js
+
+# ESLint
+.eslintcache
+
+# .env file
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+.DS_Store?
+
+# Vim
+*.swp
+
+# Prettier
+.prettierignore
