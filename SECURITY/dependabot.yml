@@ -1,1 +1,23 @@
+# SECURITY/dependabot.yml
+
+version: 2
+updates:
+  - package-ecosystem: "all"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    versioning-strategy: "auto"
+    labels:
+      - "dependencies"
+    commit-message-prefix: "chore(deps):"
+    commit-author:
+      name: "dependabot[bot]"
+      email: "dependabot@users.noreply.github.com"
+    directory-creation-command: "mkdir -p %s"
+    open-pull-requests-limit: 10
+    open-pull-requests-limit-above-lockfile: 10
+    automerged-label: "dependencies"
+    ignore:
+      - dependency-name: "some-package"
+        versions: ["<1.0.0"]
 
