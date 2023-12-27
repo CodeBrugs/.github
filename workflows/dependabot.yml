@@ -1,0 +1,12 @@
+# Configuración inicial para Dependabot en el proyecto CodeBrugs
+# Para comenzar con las actualizaciones de versiones de Dependabot, debes especificar qué
+# ecosistemas de paquetes actualizar y dónde se encuentran los manifiestos de paquetes.
+# Consulta la documentación para todas las opciones de configuración:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
