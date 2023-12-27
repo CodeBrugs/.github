@@ -17,7 +17,7 @@ Haz un fork del repositorio del proyecto seleccionado a tu propia cuenta de GitH
 Clona el repositorio a tu máquina local utilizando el siguiente comando:
 
 
-git clone https://github.com/TU_USUARIO/nombre-del-proyecto.git
+git clone https://github.com/CodeBrugs/nombre-del-proyecto.git
 4. Crea una Rama
 Crea una nueva rama para trabajar en tus cambios:
 
