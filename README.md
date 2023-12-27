@@ -38,7 +38,7 @@ Por favor, revisa nuestro [Código de Conducta](CODE_OF_CONDUCT.md) antes de par
 
 ## Contacto
 
-¿Tienes preguntas, sugerencias o simplemente quieres charlar? No dudes en [abrir un issue](https://github.com/CodigoBrugs/ISSUE_TEMPLATE) en este repositorio. ¡Estamos aquí para ayudar!
+¿Tienes preguntas, sugerencias o simplemente quieres charlar? No dudes en [abrir un issue](https://github.com/CodigoBrugs/issue) en este repositorio. ¡Estamos aquí para ayudar!
 
 ## Redes Sociales
 
