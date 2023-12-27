@@ -36,9 +36,7 @@ Mantente actualizado sobre nuestros eventos, charlas y meetups. Únete a la conv
 
 Por favor, revisa nuestro [Código de Conducta](CODE_OF_CONDUCT.md) antes de participar en cualquier proyecto. Queremos que todos los participantes se sientan seguros y respetados.
 
-## Contacto
 
-¿Tienes preguntas, sugerencias o simplemente quieres charlar? No dudes en [abrir un issue](https://github.com/CodigoBrugs/ISSUE_TEMPLATE) en este repositorio. ¡Estamos aquí para ayudar!
 
 ## Redes Sociales
 
