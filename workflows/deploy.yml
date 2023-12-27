@@ -1,1 +1,31 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del código fuente
+        uses: actions/checkout@v2
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Construir el proyecto
+        run: npm run build
+
+      - name: Despliegue a Entorno de Producción
+        run: |
+          echo "Desplegando a producción..."
+          # Agrega aquí los comandos específicos para el despliegue en tu entorno de producción
 
